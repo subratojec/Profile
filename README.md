@@ -30,7 +30,7 @@ I am a **Cloud & DevOps Engineer** and recent graduate in Information Technology
 | **Containerization** | Docker, Kubernetes, Helm |
 | **Infrastructure as Code / CI/CD** | Terraform, AWS CloudFormation, GitHub Actions, Jenkins |
 | **Observability** | Prometheus, Grafana, Alert Rules, Log Analysis |
-| **Languages & Frameworks** | Python, Bash, SQL, FastAPI |
+| **Languages & Frameworks** | Go, Python, Bash, SQL, FastAPI |
 | **Systems & Core CS** | Linux Internals, Linux Hardening, cgroups, Networking, Data Structures & Algorithms |
 
 ---
